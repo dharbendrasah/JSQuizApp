@@ -122,12 +122,12 @@ window.onload = function() {
             ans: "onclick"
         },
         {
-            question: "How can you add a comment in JavaScript?", 
-            option1: "'This is a comment", 
-            option2: "// This is a comment", 
-            option3: "<!-- This is a comment -->", 
-            option4: "! This is a comment", 
-            ans: "// This is a comment"
+           question: "What is the global object of javascript?", 
+            option1: "document", 
+            option2: "window", 
+            option3: "global", 
+            option4: "console", 
+            ans: "window"
         },
         {
             question: "How do you declare a JavaScript variable?", 
